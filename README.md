@@ -23,5 +23,5 @@
 
 **Ссылка на Дашборд**
 Данные для входа вы сможете найти в моем отклике на вашу вакансию.
-<http://103.88.240.76:8088/superset/dashboard/2/?native_filters_key=kaXe_KwgMJWjPlLALL6uptK9L9GUx17whNCAgZoYAwuZPmFPT8pZADaWjfi1-28Y&standalone=true>
+<http://103.88.240.76:8088/superset/dashboard/2/?native_filters_key=kaXe_KwgMJWjPlLALL6uptK9L9GUx17whNCAgZoYAwuZPmFPT8pZADaWjfi1-28Y&standalone=true>  
 **Сслыка на описание работы** - <[Superset/Описание процесса создания Дашборда в Superset](https://github.com/julialobankova/portfolio_09.2025/blob/0c39203eb92337b481fa1d41af3d3b10c54ad58b/Superset/%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%B0%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%94%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%D0%B0%20%D0%B2%20Superset)>
