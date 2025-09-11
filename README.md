@@ -5,29 +5,29 @@
 
 В данном репозитории вы найдете примеры следующих технологических стеков:  
   
-<img width="50" height="30" alt="image" src="https://github.com/user-attachments/assets/22e63fd2-27c8-48e9-a314-8c01b402c9e0" />
+<img width="50" height="30" alt="image" src="https://github.com/user-attachments/assets/22e63fd2-27c8-48e9-a314-8c01b402c9e0" /> <img width="50" height="30" alt="image" src="https://github.com/user-attachments/assets/2a0ff8aa-8c1d-4c7c-9fd7-9501c4ee6eb6" /> <img width="60" height="40" alt="image" src="https://github.com/user-attachments/assets/2e2c9210-7ed7-44e2-96d5-a813f4888710" /> <img width="60" height="40" alt="image" src="https://github.com/user-attachments/assets/c20e77c7-9e7a-439e-8347-8424a2bcc37e" /> <img width="60" height="40" alt="image" src="https://github.com/user-attachments/assets/d26d0cd4-e8a5-4298-b568-f0f8bf480f1b" /> <img width="50" height="30" alt="image" src="https://github.com/user-attachments/assets/25ef4a3b-6d52-4bcc-b503-a60562a98657" /> 
 
-**Apache Superset**
+**Apache Superset**  **Power BI**  **Apache Airflow**  **PostgreSQL**  **MS SQL Server**  **Python**  
 
-<img width="50" height="30" alt="image" src="https://github.com/user-attachments/assets/2a0ff8aa-8c1d-4c7c-9fd7-9501c4ee6eb6" />  
 
-**Power BI**
+  
 
-<img width="60" height="40" alt="image" src="https://github.com/user-attachments/assets/2e2c9210-7ed7-44e2-96d5-a813f4888710" />
 
-**Apache Airflow**
 
-<img width="60" height="40" alt="image" src="https://github.com/user-attachments/assets/c20e77c7-9e7a-439e-8347-8424a2bcc37e" />
 
-**PostgreSQL**
 
-<img width="60" height="40" alt="image" src="https://github.com/user-attachments/assets/d26d0cd4-e8a5-4298-b568-f0f8bf480f1b" />
 
-**MS SQL Server**
 
-<img width="50" height="30" alt="image" src="https://github.com/user-attachments/assets/25ef4a3b-6d52-4bcc-b503-a60562a98657" /> 
 
-**Python**  
+
+
+
+
+
+
+
+
+
   
     
       
