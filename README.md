@@ -27,18 +27,15 @@
 
 <img width="50" height="30" alt="image" src="https://github.com/user-attachments/assets/25ef4a3b-6d52-4bcc-b503-a60562a98657" /> 
 
-**Python**  
-
-
-
-
-
-          
-
-
+**Python**
 
 **Дашборд для кофейни Superset**  
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/9b143b7f-5767-441e-87ed-231ee04f3e94" />
+
+
+
+
+
 
 
 **Ссылка на Дашборд**
