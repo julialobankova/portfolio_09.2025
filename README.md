@@ -1,9 +1,9 @@
-###Добро пожаловать в репозиторий с моим портфолио.
+## Добро пожаловать в репозиторий с моим портфолио.
 
 
 
 Дашборд для кофейни.
-<img width="5" height="69" alt="image" src="https://github.com/user-attachments/assets/afa226c4-ca77-4039-83f6-d1dbe2bc5659" />
+<img width="100" height="200" alt="image" src="https://github.com/user-attachments/assets/afa226c4-ca77-4039-83f6-d1dbe2bc5659" />
 
 Ссылка на Дашборд. 
 Данные для входа вы сможете найти в моем отклике на вашу вакансию.
