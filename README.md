@@ -11,7 +11,7 @@
 
 
 **Apache Superset**  
-**Power BI**  
+**Power BI**  https://github.com/julialobankova/portfolio_09.2025/blob/main/README.md
 **Apache Airflow**  
 **PostgreSQL**  
 **Python**  
@@ -33,7 +33,7 @@
 
 ### Ежедневный отчет по продажам и заказам товаров Power BI
 
-Данный отчет из моей рабочей практики от 2023 года. Бренды отображенные на скринкасте не существуют на сегодняшний день.
+Данный отчет из моей рабочей практики от 2023 года. Бренды отображенные на скриншоте не существуют на сегодняшний день.
 
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/308163cb-edfb-4270-a56f-8c528fa24edf" />  
 
