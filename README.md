@@ -13,7 +13,7 @@
 **Apache Superset**  
 **Power BI**  
 **Apache Airflow**  
-**PostgreSQL**
+**PostgreSQL**  
 **Python**  
 <br>
 ### Дашборд для кофейни Superset  
