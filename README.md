@@ -2,7 +2,7 @@
 # Портфолио Карнауховой Юлии
 <br>
 
-Я подготовила примеры работ для демонстрации владения инсрументами и технологиями по направлениям Разработки BI, BI 
+Я подготовила примеры работ для демонстрации владения инструментами и технологиями по направлениям Разработки BI, BI 
 Аналитики и Аналитики Данных
 <br><br>
 <br><br>
@@ -42,17 +42,15 @@
 <br><br>
 ### Airflow и Парсинг данных
 Я реализовала простой ETL процесс с помощью Python и Airflow, для сбора данных из онлайн магазина игрушек:
-Данные собираются с помощью BeautifulSoup и requests, далее загуржаются в СУБД. Airflow в моем примере необходим для 
-запуска данных задач через единый DAG.
+Данные собираются с помощью BeautifulSoup и requests, далее загуржаются в СУБД c помощью COPY. 
 
+Файлы с определением DAG и функциями - <https://github.com/julialobankova/portfolio_09.2025/tree/main/Superset/>
 
 В реальных бы кейсах можно было бы собирать данные на ежеденевной основе и отслеживать изменения цен 
 конкурентов, доработав данный процесс.
-<img width="600" height="100" alt="image" src="https://github.com/user-attachments/assets/c2007517-8b99-48c5-882a-d90dd05aef15" />
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/8aaca783-c4e7-4718-b38b-1102fbbf65bc" />
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/c78938df-5c7e-40c6-b2fd-abe0192b0181" />
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/6b08b985-e80e-4948-ae04-9e992ae76bfd" />
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/c0279331-ea01-4fce-b521-9b6b3e886dd9" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/c6a1c82b-b542-4ffa-acb8-e5fc7179c616" />
+<img width="600" height="100" alt="image" src="https://github.com/user-attachments/assets/b9861e4a-e28d-4f9b-ade7-10f4c20c035e" />
+<img width="625" height="400" alt="image" src="https://github.com/user-attachments/assets/8cfe654c-0406-434f-9e96-3670c7289a29" />
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/ccb94876-eff7-4a30-b07c-0cd0fe863f15" />
 
 
