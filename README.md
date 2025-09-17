@@ -42,9 +42,10 @@ https://www.kaggle.com/datasets/alperenmyung/social-media-advertisement-performa
 <br><br>
 ### Airflow и Парсинг данных
 Я реализовала простой ETL процесс с помощью Python и Airflow, для сбора данных из онлайн магазина игрушек:
-Всего 2 task.
+Всего 2 task.  
+
 **1й task**  - сбор данных с помощью BeautifulSoup и requests, трансформация прайса под единый формат и сохранение их в csv. Использую PythonOperator.
- . 
+  
 **2й task** - Файл CSV загуржается в СУБД c помощью серверной функции COPY, для этого использую BashOperator
 Файлы с определением DAG и функциями - https://github.com/julialobankova/portfolio_09.2025/tree/main/Superset
 
