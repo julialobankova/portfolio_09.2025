@@ -28,7 +28,7 @@
 
 Для разработки данного отчета был использован датасет с Kaggle: https://www.kaggle.com/datasets/alperenmyung/social-media-advertisement-performance?select=campaigns.csv
 
-###Ежедневный отчет по продажам и заказам товаров Power BI
+### Ежедневный отчет по продажам и заказам товаров Power BI
 Данный отчет из моей рабочей практики от 2023 года.Бренды, отображенные на скриншоте, не существуют на сегодняшний день.
 
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/308163cb-edfb-4270-a56f-8c528fa24edf" />  
@@ -38,7 +38,7 @@
 
 
 
-Airflow и Парсинг данных
+### Airflow и Парсинг данных
 Я реализовала простой ETL процесс с помощью Python и Airflow, для сбора данных из онлайн магазина игрушек: Всего 2 task.
 
 **1й task** - сбор данных с помощью BeautifulSoup и requests, трансформация прайса под единый формат и сохранение их в csv. Использую PythonOperator.
