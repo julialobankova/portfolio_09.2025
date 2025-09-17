@@ -29,7 +29,7 @@
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/9f846159-3421-4c4d-85cb-9988d3c40250" />
 
 Для разработки данного отчета были использован датасет с Kaggle:
-<https://www.kaggle.com/datasets/alperenmyung/social-media-advertisement-performance?select=campaigns.csv />
+https://www.kaggle.com/datasets/alperenmyung/social-media-advertisement-performance?select=campaigns.csv  
 
 ### Ежедневный отчет по продажам и заказам товаров Power BI
 
@@ -46,7 +46,7 @@
 **1й task**  - сбор данных с помощью BeautifulSoup и requests, трансформация прайса под единый формат и сохранение их в csv. Использую PythonOperator.
  . 
 **2й task** - Файл CSV загуржается в СУБД c помощью серверной функции COPY, для этого использую BashOperator
-Файлы с определением DAG и функциями - <https://github.com/julialobankova/portfolio_09.2025/tree/main/Superset/>
+Файлы с определением DAG и функциями - https://github.com/julialobankova/portfolio_09.2025/tree/main/Superset
 
 В реальных бы кейсах можно было бы собирать данные на ежеденевной основе и отслеживать изменения цен 
 конкурентов, доработав данный процесс.
