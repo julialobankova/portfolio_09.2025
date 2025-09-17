@@ -50,7 +50,8 @@ https://www.kaggle.com/datasets/alperenmyung/social-media-advertisement-performa
 Файлы с определением DAG и функциями - https://github.com/julialobankova/portfolio_09.2025/tree/main/Superset
 
 В реальных бы кейсах можно было бы собирать данные на ежеденевной основе и отслеживать изменения цен 
-конкурентов, доработав данный процесс.
+конкурентов, доработав данный процесс.  
+
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/c6a1c82b-b542-4ffa-acb8-e5fc7179c616" />
 <img width="600" height="100" alt="image" src="https://github.com/user-attachments/assets/b9861e4a-e28d-4f9b-ade7-10f4c20c035e" />
 <img width="625" height="400" alt="image" src="https://github.com/user-attachments/assets/8cfe654c-0406-434f-9e96-3670c7289a29" />
