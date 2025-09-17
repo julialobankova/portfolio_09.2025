@@ -11,7 +11,7 @@
 
 
 **Apache Superset**  
-**Power BI**  https://github.com/julialobankova/portfolio_09.2025/blob/main/README.md
+**Power BI**  
 **Apache Airflow**  
 **PostgreSQL**  
 **Python**  
