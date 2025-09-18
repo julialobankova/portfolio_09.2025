@@ -20,6 +20,11 @@
 
 **Ссылка на описание работы** - [Superset/Описание процесса создания Дашборда в Superset.md](https://github.com/julialobankova/portfolio_09.2025/blob/main/Superset/%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%B0%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%94%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%D0%B0%20%D0%B2%20Superset.md)
 
+### Прототипирование отчета Power BI по результатам ТЗ:
+Ссылка на ТЗ - https://github.com/julialobankova/portfolio_09.2025/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%94%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%20HR%20%D0%A2%D0%97.docx
+Ссылка на прототип - https://github.com/julialobankova/portfolio_09.2025/blob/main/Power%20BI/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF%20HR.pbix
+<img width="1278" height="731" alt="image" src="https://github.com/user-attachments/assets/2fd0ecb0-3a09-445c-b3f8-e67cec090949" />
+
 
 ### Отчет по рекламным кампаниям Power BI
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/41cc3b0c-0e96-4f6e-bedf-d27233bf6ae0" />
